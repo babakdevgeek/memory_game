@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/memory_game/static/css/main.7437edd6.css",
+    "main.css": "/memory_game/static/css/main.3c6e18ed.css",
     "main.js": "/memory_game/static/js/main.b9359bb8.js",
     "static/media/Yekan.otf": "/memory_game/static/media/Yekan.5286287f90cfa4ad981a.otf",
     "static/media/Yekan.ttf": "/memory_game/static/media/Yekan.bd776b3076b9c71c04b8.ttf",
@@ -8,11 +8,11 @@
     "static/media/Yekan.eot": "/memory_game/static/media/Yekan.a9fe746817819b9eb55e.eot",
     "static/media/Yekan.woff2": "/memory_game/static/media/Yekan.1613331811dbcb7394f0.woff2",
     "index.html": "/memory_game/index.html",
-    "main.7437edd6.css.map": "/memory_game/static/css/main.7437edd6.css.map",
+    "main.3c6e18ed.css.map": "/memory_game/static/css/main.3c6e18ed.css.map",
     "main.b9359bb8.js.map": "/memory_game/static/js/main.b9359bb8.js.map"
   },
   "entrypoints": [
-    "static/css/main.7437edd6.css",
+    "static/css/main.3c6e18ed.css",
     "static/js/main.b9359bb8.js"
   ]
 }
